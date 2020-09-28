@@ -1,6 +1,6 @@
 # RMKMCplus
 
-This is a reimplementation of the RMKMC algorithm. The RMKMC algorithm is proposed by Cai, Nie, Huang in their paper "Multi-view K-Means Clustering on Big Data (2013)". You can find the original papaer at http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.415.8610&rep=rep1&type=pdf.
+This is a reimplementation of the RMKMC algorithm. The RMKMC algorithm is proposed by Cai, Nie, Huang in their paper "Multi-view K-Means Clustering on Big Data (2013)". You can find the original paper at http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.415.8610&rep=rep1&type=pdf.
 
 The significance of this project is that it embeds an intialization step natually into the optimization steps of the original algorithm. It's a small change and a concise description can be found in "Initialization.pdf".
 
